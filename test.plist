@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://qm236.leaderhero.com/Publish/201805/06/10/103643_080b.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://im5.tongbu.com/userapp/AppIcon/201804/24/030108247.jpg</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://im5.tongbu.com/userapp/AppIcon/201804/24/030108247.jpg</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.tencent.tmgp.pubgmhd</string>
+                    <key>bundle-version</key>
+                    <string>0.6.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>PUBG MOBILE Hack(China version</string>
+                    <key>title</key>
+                    <string>PUBG MOBILE Hack(China version</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
