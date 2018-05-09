@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://qdhw.leaderhero.com/new2/20180410/Pottery_v1.72%28os8.0%29_180410193447_app.tongbu.com.ipa</string>
+                    <string>http://d.app6.i4.cn/soft/2018/01/24/14/380090605/z1516774081911_949992.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://localhost:8080/WebResource/StarWars%E2%84%A2%3AGalaxyofHeroesHack_0.11.1.ipa.png</string>
+                    <string>http://d.image.i4.cn/image/icon/2018/01/24/14/380090605/1_z1516774081911_263259.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>Star Wars™: Galaxy of Heroes Hack</string>
+                <string>来自严曹唯钰的见面礼</string>
                 <key>title</key>
-                <string>Star Wars™: Galaxy of Heroes Hack</string>
+                <string>来自严曹唯钰的见面礼</string>
             </dict>
         </dict>
     </array>
